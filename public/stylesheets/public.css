@@ -1,0 +1,81 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Montserrat&display=swap');
+
+.introduction {
+    width: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+
+p {
+    
+}
+
+.intro-text {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.hello {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hello-text {
+    font-family: 'Courgette', cursive !important;
+}
+
+.inactive {
+    color: gray;
+    text-decoration: line-through;
+}
+
+.project-cols {
+    
+    width: 100%;
+}
+
+.bottom-links {
+    
+    
+    margin-top: auto !important;
+    margin-bottom: auto;
+}
+
+.proj-desc {
+   min-height: 150px;
+  
+}
+
+.tech-stack {
+    min-height: 75px;
+}
+
+.hero-img {
+    
+    filter: grayscale(25%);
+}
+
+.content-block {
+    margin-right: 20%  !important;
+    margin-left: 20%  !important;
+    margin-top: 1% !important;
+    
+}
+
+.center-ball {
+    border: dotted red 1px !important;
+}
+
+.hero {
+    box-shadow: 0px 0px 15px white;
+}
+
+.headshot {
+    margin-top: 20%;
+}
+
+
+
